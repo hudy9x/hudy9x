@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hudy9x
 - 👀 Having a strong passion for building web applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently building a community that helps newbie growing up coding skills
+- 💞️ Looking to collaborate on publishing digital courses  
 - 📫 How to reach me: hudy9x@gmail.com
 
 <!---
