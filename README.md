@@ -3,6 +3,7 @@
 - 🌱 I’m currently building a community that helps newbie growing up coding skills
 - 💞️ Looking to collaborate on publishing digital courses  
 - 📫 How to reach me: hudy9x@gmail.com
+- 🎬 My youtube channel: []https://www.youtube.com/channel/UCHC66KbWiGEkYiHiVwuCi3g
 
 <!---
 hudy9x/hudy9x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
