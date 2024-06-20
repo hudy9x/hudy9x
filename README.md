@@ -10,4 +10,4 @@ hudy9x/hudy9x is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hudy9x&theme=oldie)](https://github.com/hudy9x/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=hudy9x&theme=oldie)
